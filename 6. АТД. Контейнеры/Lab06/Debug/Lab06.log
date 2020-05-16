@@ -1,0 +1,3 @@
+﻿  Vector.cpp
+C:\Users\Study-CAV\Desktop\Lab\Lab06\Lab06\Vector.cpp(51): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  Lab06.vcxproj -> C:\Users\Study-CAV\Desktop\Lab\Lab06\Debug\Lab06.exe

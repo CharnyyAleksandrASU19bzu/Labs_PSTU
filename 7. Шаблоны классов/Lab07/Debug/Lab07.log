@@ -1,0 +1,4 @@
+﻿  Main_Lab07.cpp
+C:\Users\Study-CAV\Desktop\Lab\Lab07\Lab07\Main_Lab07.cpp(29,11): error C2679: бинарный "+": не найден оператор, принимающий правый операнд типа "Time" (или приемлемое преобразование отсутствует)
+C:\Users\Study-CAV\Desktop\Lab\Lab07\Lab07\vector.h(62,9): message : может быть "Vector<Time> Vector<Time>::operator +(const Vector<Time> &)"
+C:\Users\Study-CAV\Desktop\Lab\Lab07\Lab07\Main_Lab07.cpp(29,11): message : при попытке сопоставить список аргументов "(Vector<Time>, Time)"

@@ -1,0 +1,8 @@
+﻿  Main_Lab12_3.cpp
+C:\Users\Study-CAV\Desktop\Lab\Lab12_3\Lab12_3\vector.h(112,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Study-CAV\Desktop\Lab\Lab12_3\Lab12_3\vector.h(110): message : во время компиляции функции-члена класс шаблон "void Vector<Time>::Summa(void)"
+C:\Users\Study-CAV\Desktop\Lab\Lab12_3\Lab12_3\Main_Lab12_3.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Summa(void)"
+C:\Users\Study-CAV\Desktop\Lab\Lab12_3\Lab12_3\Main_Lab12_3.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+  Time.cpp
+  Создание кода...
+  Lab12_3.vcxproj -> C:\Users\Study-CAV\Desktop\Lab\Lab12_3\x64\Debug\Lab12_3.exe

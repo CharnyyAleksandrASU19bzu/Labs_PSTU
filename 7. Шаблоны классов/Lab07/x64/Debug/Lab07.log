@@ -1,0 +1,3 @@
+﻿  Main_Lab07.cpp
+C:\Users\Study-CAV\Desktop\Lab\Lab07\Lab07\vector.h(59): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  Lab07.vcxproj -> C:\Users\Study-CAV\Desktop\Lab\Lab07\x64\Debug\Lab07.exe
