@@ -1,0 +1,7 @@
+﻿  Main_Lab16.cpp
+C:\Users\Study-CAV\Desktop\Lab\16. Бинарное дерево\Lab_16\Node.h(156,35): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+C:\Users\Study-CAV\Desktop\Lab\16. Бинарное дерево\Lab_16\Node.h(160,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Study-CAV\Desktop\Lab\16. Бинарное дерево\Lab_16\Node.h(175,47): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+C:\Users\Study-CAV\Desktop\Lab\16. Бинарное дерево\Lab_16\Node.h(177,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Study-CAV\Desktop\Lab\16. Бинарное дерево\Lab_16\Node.h(232): warning C4715: Node_Max: значение возвращается не при всех путях выполнения
+  Lab_16.vcxproj -> C:\Users\Study-CAV\Desktop\Lab\16. Бинарное дерево\Debug\Lab_16.exe
